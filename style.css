@@ -20,7 +20,7 @@ section{
     justify-content: center;
     flex-direction: column;
     padding: 25px 0;
-    background-image: url(images/glassbg00.jpg);
+    background-image: url(/glassbg00.jpg);
     
 }
 section h1{
